@@ -115,20 +115,3 @@ python "2 кластеризация/clustering.py"
 
 
 Отчёт, реферат и доклад находятся в папке reports.
-
-
-
-
-
-Потом в PowerShell:
-
-
-
-```powershell
-
-git add README.md
-
-git commit -m "Update README description"
-
-git push
-
